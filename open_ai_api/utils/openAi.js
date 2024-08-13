@@ -1,5 +1,4 @@
 import OpenAI from 'openai';
-// sk-proj-a2tIWrnBDiky3Fh9zB2pT3BlbkFJ10HnsiAwNUH4mRNJ50Ho
 const openai = new OpenAI({
   // apiKey: "", // This is the default and can be omitted
   // dangerouslyAllowBrowser: true
