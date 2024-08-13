@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../open_ai_backend"
+		}
+	],
+	"settings": {}
+}
